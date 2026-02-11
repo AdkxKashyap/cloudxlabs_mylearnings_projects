@@ -1,2 +1,2 @@
-venv/
-venv_cloudxlabsml_notes/datasets/*.csv
+venv_cloudxlabs/
+ml_notes/datasets
